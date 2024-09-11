@@ -1,0 +1,35 @@
+h1 {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+body {
+  background-color: rgb(169, 72, 72);
+}
+
+table {
+  width: 75%;
+}
+table,
+th,
+td {
+  border-collapse: collapse;
+  border-color: white;
+  background-color: rgb(54, 203, 141);
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: white;
+  background-color: black;
+}
+
