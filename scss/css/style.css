@@ -1,0 +1,49 @@
+header nav {
+  display: inline-block;
+}
+
+header nav ul li {
+  display: inline-block;
+  color: white;
+  margin: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.container {
+  border: 2px solid black;
+  margin: 20px;
+  height: 500px;
+  padding: 10px;
+  background-image: url(../src/img/carsclose.jpg);
+  background-size: cover;
+}
+
+p {
+  color: white;
+  position: relative;
+  top: 75%;
+  background-color: rgba(0, 0, 0, 0.2);
+  line-height: 20px;
+  border-radius: 5px;
+  padding: 4px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: wheat;
+}
+
+header {
+  background-color: rgb(67, 46, 46);
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */

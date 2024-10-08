@@ -1,0 +1,25 @@
+@import "nav.scss";
+@import "para.scss";
+
+
+
+$primary-color:red;
+$secondary-color:wheat;
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: $secondary-color;
+}
+
+header{
+    background-color: rgb(67, 46, 46);
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    color: $primary-color;
+}
